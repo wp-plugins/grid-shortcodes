@@ -15,9 +15,8 @@ A responsive and easy-to-use tool for dividing your content in your posts/pages.
 = Usage =
 1. Add/Edit a post/page
 2. Click the Grid Shortcodes button from the editor’s menu
-3. Start by adding a Row
-4. Add your Columns inside the Row, the same way
-5. Add content in your Columns
+3. Choose a preset for your Columns
+4. Add content in your Columns
 
 Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206395817-Get-started-with-the-Grid-Shortcodes-plugin) if you need more information on how to use this plugin.
 
@@ -40,9 +39,8 @@ Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles
 = Usage =
 1. Add/Edit a post/page
 2. Click the Grid Shortcodes button from the editor’s menu
-3. Start by adding a Row
-4. Add your Columns inside the Row, the same way
-5. Add content in your Columns
+3. Choose a preset for your Columns
+4. Add content in your Columns
 
 Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206395817-Get-started-with-the-Grid-Shortcodes-plugin) if you need more information on how to use this plugin.
 
