@@ -2,7 +2,7 @@
 Contributors: spwebguy
 Tags: grid, columns, rows, shortcode, shortcodes, grid system, responsive, simple, editor, content, divide 
 Requires at least: 3.6
-Tested up to: 4.3.1
+Tested up to: 4.4
 Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
